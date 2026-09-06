@@ -12,18 +12,43 @@
 
 I operate at the high-leverage intersection of **spatial big data, multi-threaded physics simulation, and autonomous agent tooling**. Rather than writing one-off CAD scripts, I engineer deterministic software tools, hardware ground-truthing wands, and high-performance computational models for complex urban environments.
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   CORE ARBITRAGE                                       │
-├──────────────────────────┬──────────────────────────┬──────────────────────────────────┤
-│ SPATIAL BIG DATA & GIS   │ MULTI-THREADED PHYSICS   │ AUTOMATED AGENT TOOLING          │
-├──────────────────────────┼──────────────────────────┼──────────────────────────────────┤
-│ • 1.35M-record SQLite    │ • Multi-threaded C#      │ • Production MCP bridges         │
-│ • PyQGIS spatial models  │   (Parallel.For / SIMD)  │   (QGIS, Rhino, Illustrator)     │
-│ • Dasymetric downscaling │ • Microclimate & Solar   │ • Pre-flight release toolchains  │
-│ • Google Earth Engine    │ • Custom IoT edge-AI     │   (/boostx, /publish-audit)      │
-└──────────────────────────┴──────────────────────────┴──────────────────────────────────┘
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="left">📊 SPATIAL BIG DATA & GIS</th>
+      <th width="33%" align="left">⚡ MULTI-THREADED PHYSICS</th>
+      <th width="33%" align="left">🤖 AUTOMATED AGENT TOOLING</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li><b>1.35M-Record Spatial Engine</b><br>High-throughput SQLite / Spatialite database processing Bangkok-wide parcel and census telemetry.</li>
+          <li><b>PyQGIS Vector & Raster Pipelines</b><br>Continuous topology validation, catchment analysis, and automated headless rendering.</li>
+          <li><b>Dasymetric Downscaling</b><br>2.5D building-volume demographic modeling (DOPA district statistics → localized parcel population).</li>
+          <li><b>Google Earth Engine (GEE)</b><br>Multi-spectral satellite time-series analysis (NDVI vegetative health & LST thermal heat islands).</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li><b>Multi-Threaded C# Solvers</b><br>SIMD & <code>Parallel.For</code> accelerated ray-tracing and geometric intersection kernels in RhinoCommon.</li>
+          <li><b>Microclimate Comfort Engines</b><br>UTCI, PET, Mean Radiant Temperature (MRT), and ISO 9613-2 acoustic sound propagation.</li>
+          <li><b>Solar Feasibility & Yield</b><br>Annual cumulative sky irradiation, CAPEX/OPEX payback modeling, and net-zero asset yield.</li>
+          <li><b>IoT Ground-Truthing Wand</b><br>Custom ESP32 hardware with Bosch BME688 AI smell classification, mmWave radar & LoRa telemetry.</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li><b>Production MCP Bridges</b><br>Bidirectional Model Context Protocol servers connecting LLM agents directly to QGIS, Rhino 3D, and Illustrator.</li>
+          <li><b>Deterministic Engineering (<a href="https://github.com/napattan/agent-skills">/boostx</a>)</b><br>Strict 4-phase root-cause protocol preventing speculative AI hallucination and code bloat.</li>
+          <li><b>Pre-Flight Release Gates (<a href="https://github.com/napattan/agent-skills">/publish-audit</a>)</b><br>Automated AST security scanning, credential detection, and cross-platform packaging.</li>
+          <li><b>Universal Doc Synchronizer (<a href="https://github.com/napattan/agent-skills">/update-doc</a>)</b><br>5-tier workspace consistency engine eliminating documentation rot across multi-repo suites.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
