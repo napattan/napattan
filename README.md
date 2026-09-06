@@ -79,7 +79,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 ## How I work
 
 - **Shma:** Computational Design and Environmental Tech intern. Built tools and research inside a professional landscape practice.
-- **Student Union President,** Faculty of Architecture, Kasetsart University (2024–2025). Led faculty-scale student operations.
+- **Student Union President,** Faculty of Architecture, Kasetsart University (2024-2025). Led faculty-scale student operations.
 - **TEDxKasetsartU** core team, Head of Media. Ran media for a large public event.
 
 ---
