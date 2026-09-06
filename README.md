@@ -13,13 +13,13 @@
 
 ## 🏗️ What I Build
 
-I operate at the high-leverage intersection of **urban big data, multi-threaded physics simulation, and autonomous agent tooling**. Rather than writing one-off CAD scripts, I engineer deterministic software tools, field IoT sensing hardware, and high-performance computational models for complex urban environments.
+I operate at the high-leverage intersection of **urban big data, computational physics simulation, and automated agent tooling**. Rather than relying on manual CAD workflows, I direct automated tooling, field IoT sensing hardware, and data-driven simulation engines for complex urban environments.
 
 <table width="100%">
   <thead>
     <tr>
       <th width="33%" align="left">📊 SPATIAL BIG DATA & GIS</th>
-      <th width="33%" align="left">⚡ MULTI-THREADED PHYSICS</th>
+      <th width="33%" align="left">⚡ COMPUTATIONAL SIMULATION</th>
       <th width="33%" align="left">🤖 AUTOMATED AGENT TOOLING</th>
     </tr>
   </thead>
@@ -37,7 +37,7 @@ I operate at the high-leverage intersection of **urban big data, multi-threaded 
       <td valign="top">
         <b>Physics & Climate Simulation</b>
         <ul>
-          <li><b>Multi-Threaded C# Physics</b><br>SIMD & <code>Parallel.For</code> accelerated ray-tracing and geometric intersection kernels in RhinoCommon.</li>
+          <li><b>High-Performance CAD Solvers</b><br>Accelerated ray-tracing, solar envelope computation, and geometric intersection modeling in RhinoCommon & Grasshopper.</li>
           <li><b>Microclimate Comfort Solvers</b><br>Pedestrian heat stress (UTCI / PET), wind flow vectors, Mean Radiant Temperature (MRT), and ISO 9613-2 acoustic sound propagation.</li>
           <li><b>Solar Yield & Feasibility</b><br>Annual cumulative sky irradiation, CAPEX/OPEX payback modeling, and net-zero asset yield.</li>
           <li><b>IoT Ground-Truthing Wand</b><br>Custom ESP32 hardware with Bosch BME688 AI smell classification, mmWave radar, and LoRa telemetry.</li>
@@ -82,13 +82,6 @@ I operate at the high-leverage intersection of **urban big data, multi-threaded 
 
 ## 🛠️ Technical Stack & Tooling
 
-### Programming & Software Engineering
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-SQLite%2FSpatialite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Spatial Analytics & GIS
 ![QGIS](https://img.shields.io/badge/QGIS-PyQGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
