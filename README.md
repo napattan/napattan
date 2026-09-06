@@ -24,7 +24,7 @@ I operate at the high-leverage intersection of **spatial big data, multi-threade
     <tr>
       <td valign="top">
         <ul>
-          <li><b>1.35M-Record Spatial Engine</b><br>High-throughput SQLite / Spatialite database processing Bangkok-wide parcel and census telemetry.</li>
+          <li><b>Bangkok Urban Big Data Architecture</b><br>Multi-source spatial database integrating 1.35M+ records across 7 citywide intelligence engines (Dashboards A–G: air quality telemetry, 10-year DOPA demographics, 208k-segment mobility graphs, 3D building morphology & 51-park satellite time-series).</li>
           <li><b>PyQGIS Vector & Raster Pipelines</b><br>Continuous topology validation, catchment analysis, and automated headless rendering.</li>
           <li><b>Dasymetric Downscaling</b><br>2.5D building-volume demographic modeling (DOPA district statistics → localized parcel population).</li>
           <li><b>Google Earth Engine (GEE)</b><br>Multi-spectral satellite time-series analysis (NDVI vegetative health & LST thermal heat islands).</li>
