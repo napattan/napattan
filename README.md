@@ -23,7 +23,7 @@ Computational designer bridging city-scale data, environmental simulation, and p
 
 Status: **PREPARED** (public demo next)
 
-Urban analytics and GIS for Bangkok-scale questions: mobility, environment, demographics, and land use. Showcase will be a public dashboard suite (sanitized, no thesis site).
+Urban analytics and GIS for Bangkok-scale questions: mobility, environment, demographics, and land use. Showcase will be a public urban analytics demo (coming next).
 
 Also in this stack: field-to-CAD prototypes such as Photo CAD Mapper.
 
@@ -69,7 +69,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 | Item | Status |
 |:---|:---|
-| Public Bangkok dashboards (sanitized urban analytics demo) | PREPARED |
+| Public Bangkok dashboards (urban analytics demo) | PREPARED |
 | SAE simulation plugin (Grasshopper / Food4Rhino) | IN PIPELINE |
 | Timberpin field sensing | PREPARED |
 | Unified portfolio site | STRATEGIC |
@@ -78,7 +78,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 ## How I work
 
-- **Shma:** Computational Design and Environmental Tech intern. Built tools and research inside a professional landscape practice.
+- **Shma:** Former Computational Design and Environmental Tech intern. Built tools and research inside a professional landscape practice.
 - **Student Union President,** Faculty of Architecture, Kasetsart University (2024-2025). Led faculty-scale student operations.
 - **TEDxKasetsartU** core team, Head of Media. Ran media for a large public event.
 
