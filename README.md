@@ -60,7 +60,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 | Repo | Status | What it is |
 |:---|:---|:---|
-| [agent-skills](https://github.com/napattan/agent-skills) | LIVE | Engineering protocols for AI coding assistants (`/boostx`, `/publish-audit`, `/publish-qgis`, `/update-doc`) |
+| [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v1.0.0) | LIVE (v1.0.0) | Portable agent skills (`/boostx`, `/create-skill`, `/publish-audit`, `/publish-qgis`, `/update-doc`) |
 | [mcp-bridges](https://github.com/napattan/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
