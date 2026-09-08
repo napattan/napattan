@@ -9,7 +9,7 @@ Computational designer bridging city-scale data, environmental simulation, and p
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-lightgrey?style=flat-square)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](https://www.linkedin.com/in/napatphas/)
 
-`Python` · `Rhino 8 / Grasshopper` · `RhinoCommon (C#)` · `QGIS` · `Spatial Data (SQLite / GeoJSON)` · `AI Workflows (MCP)`
+`Python` · `Rhino / Grasshopper` · `RhinoCommon (C#)` · `QGIS` · `Spatial SQLite` · `MCP`
 
 ---
 
