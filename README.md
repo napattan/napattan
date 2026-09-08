@@ -78,7 +78,9 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 ## Experience & Leadership
 
-- **Shma:** Former Computational Design and Environmental Tech intern. Built tools and research inside a professional landscape practice.
+- **SHMALAB (Shma):** Computational Design & Research Intern (cross-appointed across two units):
+  - *Research:* Environmental data research, urban microclimate comfort, and evidence-based sustainability frameworks (supporting LEED/WELL principles).
+  - *Intelligence:* Custom QGIS/Rhino automated workflows, parametric modeling, and multi-threaded simulation tools.
 - **Student Union President,** Faculty of Architecture, Kasetsart University (2024-2025). Led faculty-scale student operations.
 - **TEDxKasetsartU** core team, Head of Media. Ran media for a large public event.
 
