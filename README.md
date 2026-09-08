@@ -9,7 +9,7 @@ Computational designer bridging city-scale data, environmental simulation, and p
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-lightgrey?style=flat-square)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](https://www.linkedin.com/in/napatphas/)
 
-`Python` · `Rhino / Grasshopper` · `RhinoCommon (C#)` · `QGIS` · `Spatial SQLite` · `MCP`
+`Python` · `Rhino / Grasshopper` · `RhinoCommon (C# / C++)` · `QGIS` · `Spatial SQLite` · `MCP`
 
 ---
 
@@ -46,7 +46,7 @@ AI coding agents connected to design tools so routine GIS, CAD, and documentatio
 
 Status: **IN PIPELINE** (flagship next)
 
-Multi-threaded Grasshopper / C# solvers for urban environmental analysis. Release after the public Bangkok demo, as a verified plugin rather than unfinished scripts.
+Multi-threaded Grasshopper / C# & C++ solvers for urban environmental analysis. Release after the public Bangkok demo, as a verified plugin rather than unfinished scripts.
 
 Hardware ground-truthing (Timberpin) sits with this track.
 
