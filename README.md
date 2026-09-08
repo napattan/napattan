@@ -5,11 +5,11 @@
 Computational designer bridging city-scale data, environmental simulation, and practical automated workflows for clearer development decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-napatphas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/napatphas/)
-[![Email](https://img.shields.io/badge/Email-tanfasantia%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanfasantia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanfasantia@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-lightgrey?style=flat-square)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](https://www.linkedin.com/in/napatphas/)
 
-`C# .NET` · `Python` · `Rhino 8` · `Grasshopper` · `QGIS` · `MCP`
+`Python` · `Rhino 8 / Grasshopper` · `RhinoCommon (C#)` · `QGIS` · `Spatial Data (SQLite / GeoJSON)` · `AI Workflows (MCP)`
 
 ---
 
@@ -76,7 +76,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 ---
 
-## How I work
+## Experience & Leadership
 
 - **Shma:** Former Computational Design and Environmental Tech intern. Built tools and research inside a professional landscape practice.
 - **Student Union President,** Faculty of Architecture, Kasetsart University (2024-2025). Led faculty-scale student operations.
