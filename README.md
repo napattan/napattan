@@ -61,7 +61,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 | Repo | Status | What it is |
 |:---|:---|:---|
 | [qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.1.3) · v1.2.1 REGISTERED | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation (v1.2.1 in-memory clipboard & transparent PDF/SMask) |
-| [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v1.3.0) | LIVE (v1.3.0) | Portable agent skills (`/boostx`, `/brief`, `/create-skill`, `/publish-audit`, `/publish-qgis`, `/update-doc`) |
+| [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v2.0.0) | LIVE (v2.0.0) | Portable agent skills (`/boostx`, `/brief`, `/create-skill`, `/deep-researchx`, `/publish-audit`, `/publish-qgis`, `/researchx`, `/update-doc`) |
 | [mcp-bridges](https://github.com/napattan/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
