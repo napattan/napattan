@@ -36,7 +36,7 @@ Status: **LIVE**
 
 AI coding agents connected to design tools so routine GIS, CAD, and documentation steps can run as repeatable workflows.
 
-- [agent-skills](https://github.com/napattan/agent-skills)
+- [boostx](https://github.com/napattan/boostx)
 - [mcp-bridges](https://github.com/napattan/mcp-bridges)
 
 </td>
@@ -61,7 +61,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 | Repo | Status | What it is |
 |:---|:---|:---|
 | [qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.1.3) · v1.2.1 REGISTERED | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation (v1.2.1 in-memory clipboard & transparent PDF/SMask) |
-| [agent-skills](https://github.com/napattan/agent-skills/releases/tag/v2.0.0) | LIVE (v2.0.0) | Portable agent skills (`/boostx`, `/brief`, `/create-skill`, `/deep-researchx`, `/publish-audit`, `/publish-qgis`, `/researchx`, `/update-doc`) |
+| [boostx](https://github.com/napattan/boostx/releases/tag/v3.0.0) | LIVE (v3.0.0) | Composable 12-skill AI agent ecosystem (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`) |
 | [mcp-bridges](https://github.com/napattan/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
