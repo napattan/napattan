@@ -1,9 +1,10 @@
 # Hi, I'm Napat (Tan) Phasundhiae
 
-### Computational Design Technologist
+### Computational Design Technologist · Founder of [ISCV | Isocurve Research Lab (@iscvlab)](https://github.com/iscvlab)
 
 Computational designer bridging city-scale data, environmental simulation, and practical automated workflows for clearer development decisions.
 
+[![ISCV Lab](https://img.shields.io/badge/ISCV%20%7C%20Isocurve%20Research%20Lab-%40iscvlab-121417?style=flat-square&logo=github&logoColor=white)](https://github.com/iscvlab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-napatphas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/napatphas/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanfasantia@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-lightgrey?style=flat-square)](https://maps.google.com)
@@ -36,8 +37,8 @@ Status: **LIVE**
 
 AI coding agents connected to design tools so routine GIS, CAD, and documentation steps can run as repeatable workflows.
 
-- [boostx](https://github.com/napattan/boostx)
-- [mcp-bridges](https://github.com/napattan/mcp-bridges)
+- [iscvlab/boostx](https://github.com/iscvlab/boostx)
+- [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges)
 
 </td>
 <td width="33%" valign="top">
@@ -60,9 +61,9 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 | Repo | Status | What it is |
 |:---|:---|:---|
-| [qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.1.3) · v1.2.1 REGISTERED | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation (v1.2.1 in-memory clipboard & transparent PDF/SMask) |
-| [boostx](https://github.com/napattan/boostx/releases/tag/v3.0.0) | LIVE (v3.0.0) | Composable 12-skill AI agent ecosystem (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`) |
-| [mcp-bridges](https://github.com/napattan/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
+| [iscvlab/qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.1.3) · v1.2.1 REGISTERED | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation ([GitHub Repo](https://github.com/iscvlab/qgis-axonometric-transformer)) |
+| [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.0.0) | LIVE (v3.0.0) | Composable 12-skill AI agent ecosystem (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`) |
+| [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
 
@@ -71,7 +72,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 | Item | Status |
 |:---|:---|
 | Public Bangkok dashboards (urban analytics demo) | PREPARED |
-| SAE simulation plugin (Grasshopper / Food4Rhino) | IN PIPELINE |
+| Isocurve simulation plugin (Grasshopper / Food4Rhino — [@iscvlab](https://github.com/iscvlab)) | IN PIPELINE |
 | Timberpin field sensing | PREPARED |
 | Unified portfolio site | STRATEGIC |
 
@@ -79,6 +80,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 ## Experience & Leadership
 
+- **Founder & Lead Technologist, [ISCV | Isocurve Research Lab (@iscvlab)](https://github.com/iscvlab):** Spatial Data, GIS Mapping, Research Synthesis & Computational Design R&D studio.
 - **SHMALAB (Shma):** Computational Design & Research Intern (cross-appointed across two units):
   - *Research:* Environmental data research, urban microclimate comfort, and evidence-based sustainability frameworks (supporting LEED/WELL principles).
   - *Intelligence:* Custom QGIS/Rhino automated workflows, parametric modeling, and multi-threaded simulation tools.
@@ -89,8 +91,9 @@ Hardware ground-truthing (Timberpin) sits with this track.
 
 ## Connect
 
-Open to roles in computational design, spatial analytics, and AEC / PropTech tooling.
+Open to roles and collaborations in computational design, spatial analytics, and AEC / PropTech tooling.
 
+- **Research Lab:** [ISCV | Isocurve Research Lab (@iscvlab)](https://github.com/iscvlab)
 - **LinkedIn:** [linkedin.com/in/napatphas](https://www.linkedin.com/in/napatphas/)
 - **Email:** [tanfasantia@gmail.com](mailto:tanfasantia@gmail.com)
 - **GitHub:** [@napattan](https://github.com/napattan)
