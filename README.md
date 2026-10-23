@@ -62,7 +62,7 @@ Hardware ground-truthing (Timberpin) sits with this track.
 | Repo | Status | What it is |
 |:---|:---|:---|
 | [iscvlab/qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.2.2) | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation ([GitHub Repo](https://github.com/iscvlab/qgis-axonometric-transformer)) |
-| [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.0.0) | LIVE (v3.0.0) | Composable 13-skill AI agent ecosystem (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/layax`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`) |
+| [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.1.0) | LIVE (v3.1.0) | Composable 14-skill AI agent ecosystem (`/boostx`, `/briefx`, `/contextx`, `/create-skillx`, `/deep-researchx`, `/kickoffx`, `/layax`, `/obsidianx`, `/planx`, `/publishx-audit`, `/publishx-qgis`, `/researchx`, `/syncx`, `/ultrax`) |
 | [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
