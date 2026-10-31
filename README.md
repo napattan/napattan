@@ -38,6 +38,7 @@ Status: **LIVE**
 AI coding agents connected to design tools so routine GIS, CAD, and documentation steps can run as repeatable workflows.
 
 - [iscvlab/boostx](https://github.com/iscvlab/boostx)
+| **[xocr](https://github.com/iscvlab/xocr)** | `01 // Research & Document AI` | **LIVE** *(v2.0.0)* | High-speed C++ PyMuPDF vector/table extractor, Two-Stage LaTeX `booktabs` CSV surgery (`100%` table recall, `0` false positives in `~97 ms/page`), Thai PUA/Sara-Am glyph normalizer, and 4-Tier `baidu/Unlimited-OCR-2` & `EasyOCR` hybrid engine. |
 - [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges)
 
 </td>
@@ -62,7 +63,8 @@ Hardware ground-truthing (Timberpin) sits with this track.
 | Repo | Status | What it is |
 |:---|:---|:---|
 | [iscvlab/qgis-axonometric-transformer](https://plugins.qgis.org/plugins/axonometric_transformer/) | LIVE (v1.2.2) | Official QGIS plugin (Plugin ID: 6219) for 1-click 3D isometric & axonometric diagram generation ([GitHub Repo](https://github.com/iscvlab/qgis-axonometric-transformer)) |
-| [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.2.0) | LIVE (v3.2.0) | Composable 13-skill `/x*` AI agent ecosystem (`/xboost`, `/xbrief`, `/xcontext`, `/xcreate-skill`, `/xdeep-research`, `/xkickoff`, `/xlaya`, `/xobsidian`, `/xplan`, `/xpublish-audit`, `/xpublish-qgis`, `/xsync`, `/xultra`) |
+| [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.2.0) | LIVE (v3.2.0) | Composable 14-skill `/x*` AI agent ecosystem (`/xboost`, `/xbrief`, `/xcontext`, `/xcreate-skill`, `/xdeep-research`, `/xkickoff`, `/xlaya`, `/xobsidian`, `/xplan`, `/xpublish-audit`, `/xpublish-qgis`, `/xsync`, `/xultra`) |
+| **[xocr](https://github.com/iscvlab/xocr)** | `01 // Research & Document AI` | **LIVE** *(v2.0.0)* | High-speed C++ PyMuPDF vector/table extractor, Two-Stage LaTeX `booktabs` CSV surgery (`100%` table recall, `0` false positives in `~97 ms/page`), Thai PUA/Sara-Am glyph normalizer, and 4-Tier `baidu/Unlimited-OCR-2` & `EasyOCR` hybrid engine. |
 | [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges) | LIVE | Model Context Protocol bridges for QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma |
 
 ---
