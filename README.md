@@ -38,7 +38,6 @@ Status: **LIVE**
 AI coding agents connected to design tools so routine GIS, CAD, and documentation steps can run as repeatable workflows.
 
 - [iscvlab/boostx](https://github.com/iscvlab/boostx)
-| **[xocr](https://github.com/iscvlab/xocr)** | `01 // Research & Document AI` | **LIVE** *(v2.0.0)* | High-speed C++ PyMuPDF vector/table extractor, Two-Stage LaTeX `booktabs` CSV surgery (`100%` table recall, `0` false positives in `~97 ms/page`), Thai PUA/Sara-Am glyph normalizer, and 4-Tier `baidu/Unlimited-OCR-2` & `EasyOCR` hybrid engine. |
 - [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges)
 - [iscvlab/xocr](https://github.com/iscvlab/xocr)
 
