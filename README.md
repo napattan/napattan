@@ -5,7 +5,7 @@
 Computational designer bridging city-scale data, environmental simulation, and practical automated workflows for clearer development decisions.
 
 [![ISCV Lab](https://img.shields.io/badge/ISCV%20%7C%20Isocurve%20Research%20Lab-%40iscvlab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iscvlab)
-[![CanopyGIS](https://img.shields.io/badge/CanopyGIS-v3.0%20Hybrid%20GeoAI-2E7D32?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/napattan/CanopyGIS)
+[![CanopyGIS](https://img.shields.io/badge/CanopyGIS-v1.0%20Hybrid%20GeoAI-2E7D32?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/napattan/CanopyGIS)
 [![CanopyGIS Live Demo](https://img.shields.io/badge/Live%20Demo-napattan.github.io%2FCanopyGIS-00796B?style=flat-square&logo=googleearth&logoColor=white)](https://napattan.github.io/CanopyGIS/)
 [![Bangkok Spatial Suite](https://img.shields.io/badge/Bangkok%20Spatial%20Suite-bangkok.iscvlab.com-0D9488?style=flat-square&logo=qgis&logoColor=white)](https://bangkok.iscvlab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-napatphas-0A66C2?style=flat-square)](https://www.linkedin.com/in/napatphas/)
@@ -44,7 +44,7 @@ Status: **LIVE**
 Urban analytics, VHR canopy intelligence, and GIS for Bangkok-scale questions: mobility, urban forestry, environment, demographics, and land use.
 
 - **[Bangkok Spatial Intelligence Suite](https://bangkok.iscvlab.com)** ([Repo](https://github.com/iscvlab/bangkok-spatial-intelligence))
-- **[CanopyGIS V3.0](https://github.com/napattan/CanopyGIS)** (SAM 3 + DeepForest 2.1 + Watershed)
+- **[CanopyGIS V1.0](https://github.com/napattan/CanopyGIS)** (SAM 3 + DeepForest 2.1 + Watershed)
 - [QGIS Axonometric Transformer](https://plugins.qgis.org/plugins/axonometric_transformer/)
 
 </td>
@@ -68,7 +68,7 @@ Hardware ground-truthing (`Timberpin`) sits with this track.
 
 | Repo | Status | What it is |
 |:---|:---|:---|
-| **[napattan/CanopyGIS](https://github.com/napattan/CanopyGIS)** | **LIVE (v3.0.0 · [Live Demo](https://napattan.github.io/CanopyGIS/))** | **Hybrid GeoAI Individual Tree Crown (ITC) Delimitation & Centroid Extraction Platform** integrating **Meta SAM 3**, **Weecology DeepForest 2.1**, **Compact Geodesic Watershed (`c = 0.008`)**, and **Graph RAG Merging** (`84.1%` recall vs. `12.6%` pure SAM; `0.0%` cyan/metal roof false positives; `< 30 ms` interactive 6-slider client filtering; GeoJSON / Shapefile `.zip` / DXF R2010 CAD & Rhino export). Org mirror: [iscvlab/CanopyGIS](https://github.com/iscvlab/CanopyGIS) |
+| **[napattan/CanopyGIS](https://github.com/napattan/CanopyGIS)** | **LIVE (v1.0.0 · [Live Demo](https://napattan.github.io/CanopyGIS/))** | **Hybrid GeoAI Individual Tree Crown (ITC) Delimitation & Centroid Extraction Platform** integrating **Meta SAM 3**, **Weecology DeepForest 2.1**, **Compact Geodesic Watershed (`c = 0.008`)**, and **Graph RAG Merging** (`84.1%` recall vs. `12.6%` pure SAM; `0.0%` cyan/metal roof false positives; `< 30 ms` interactive 6-slider client filtering; GeoJSON / Shapefile `.zip` / DXF R2010 CAD & Rhino export). Org mirror: [iscvlab/CanopyGIS](https://github.com/iscvlab/CanopyGIS) |
 | **[Bangkok Spatial Intelligence Suite](https://bangkok.iscvlab.com)** | **LIVE (v3.0.0)** | Interactive 3D MapLibre GL JS & Deck.gl urban analytics platform for Bangkok (`50` BMA districts, `31` spatial layers, multi-modal transit isochrones, environmental risk, and property intelligence) ([iscvlab/bangkok-spatial-intelligence](https://github.com/iscvlab/bangkok-spatial-intelligence)) |
 | [iscvlab/boostx](https://github.com/iscvlab/boostx/releases/tag/v3.4.0) | LIVE (v3.4.0) | Composable 13-skill `/x*` AI agent ecosystem & 8 Python CLI verification engines (`5,458` CLI LOC) for **any AI coding agent — cloud, IDE, CLI, or local LLM** (`Claude`, `Grok`, `Gemini`, `Cursor`, `Codex`, `Ollama`, `OpenHands`, `Cline`, etc.), featuring the **[Compound Learning Playbook](https://github.com/iscvlab/boostx/blob/main/docs/COMPOUND_LEARNING_PLAYBOOK.md)** (`20` upstream open-source contributions, `4.0×–1,735.6×` speedups), `100%` red-team defect recall across `25` seeded defects in `6.99 ms`, `-97.5%` briefing context noise reduction, and `13.73 ms` `/xlaya` System 1 triage |
 | [iscvlab/mcp-bridges](https://github.com/iscvlab/mcp-bridges) | LIVE (7 Bridges · Selected for XERJ Corpus Hub) | Production Model Context Protocol bridges connecting any cloud, IDE, CLI, or local AI agent to **QGIS, Rhino 3D, Grasshopper, Adobe Illustrator, and Figma** with 1-prompt universal agent install and Parallel-Brains Single-Mouse `/xultra` swarm serialization (Selected for the [XERJ Corpus Hub](https://hub.xerj.org), `144` resolved graph edges) |
